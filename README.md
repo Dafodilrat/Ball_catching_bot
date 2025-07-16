@@ -95,16 +95,6 @@ Calibrated using ROS 2 camera calibration tools and OpenCV:
 
 ---
 
-## 📸 Images (Suggestions)
-Recommended visuals for this README:
-- PID response graphs (desired vs actual x/y)
-- ROS 2 RQT Graph screenshots
-- Robot localization diagram (EKF fusion)
-- Astra camera depth map snapshot
-- URDF model visualization
-
----
-
 ## 🖥️ Hardware Platform
 
 - Jetson Nano (Ubuntu 18.04 + Docker)
